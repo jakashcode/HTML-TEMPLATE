@@ -2,6 +2,7 @@
 /* default styling */
 html{
     font-family: fantasy;
+    scroll-behavior: smooth;
 }
 
 li{
